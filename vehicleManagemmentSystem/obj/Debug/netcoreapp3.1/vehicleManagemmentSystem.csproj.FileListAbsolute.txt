@@ -12,8 +12,6 @@ D:\Education\github directories\vehicle-management-system\vehicleManagemmentSyst
 D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagemmentSystem.csprojAssemblyReference.cache
 D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagemmentSystem.AssemblyInfoInputs.cache
 D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagemmentSystem.AssemblyInfo.cs
-D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagemmentSystem.csproj.CoreCompileInputs.cache
-D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagemmentSystem.MvcApplicationPartsAssemblyInfo.cache
 D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagemmentSystem.RazorAssemblyInfo.cache
 D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagemmentSystem.RazorAssemblyInfo.cs
 D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagemmentSystem.TagHelpers.input.cache

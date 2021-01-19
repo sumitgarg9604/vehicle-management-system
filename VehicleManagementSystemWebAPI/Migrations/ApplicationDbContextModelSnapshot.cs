@@ -21,8 +21,32 @@ namespace VehicleManagementSystemWebAPI.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<string>("VehicleType")
+                    b.Property<int>("Doors")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Engine")
                         .HasColumnType("TEXT");
+
+                    b.Property<string>("Make")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Model")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("VehicleType")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("adType")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("bodyType")
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("wheels")
+                        .HasColumnType("INTEGER");
 
                     b.HasKey("ID");
 
