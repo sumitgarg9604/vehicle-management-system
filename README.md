@@ -13,9 +13,9 @@ Backend - Asp.Net core 3.1 MVC and WebAPI
 Database used - SQLite
 
 
-###Usage
+##Usage
 - Clone the repository
 - Open the solution in Visual Studio (Visual Studio 2019 - Community edition used while developing)
-- Open the solution vehicleManagemmentSystem/vehicleManagemmentSystem.sln
+- Open the solution vehicleManagemmentSystem/vehicleManagementSystem.sln
 - Two projects are added to the solution and multiple projects has been set up for start 
 - Run the project
