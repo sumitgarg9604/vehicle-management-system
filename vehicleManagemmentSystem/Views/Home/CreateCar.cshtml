@@ -1,0 +1,23 @@
+﻿<! -- CreateCar.cshtml -->
+<! -- To Add a Vehicle of Type Car to the Database -->
+@{
+    ViewData["Title"] = "Add Vehicle";
+}
+
+<html>
+<body>
+    <div id="content"></div>
+
+    <! -- JS to import React -->
+    <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react/16.13.0/umd/react.development.js"></script>
+    <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.13.0/umd/react-dom.development.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/1.7.1/remarkable.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+    <! -- JS script for customized alert box -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+    <! -- JS script to add a car -->
+    <script src="@Url.Content("~/js/addCar.jsx")"></script>
+</body>
+</html>

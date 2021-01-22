@@ -1,0 +1,28 @@
+﻿<! -- ViewCarListings.cshtml -->
+<! -- To View all Existings  Vehicle of Type Car from the Database -->
+<! -- Filter by Advertisment Posted By -->
+
+@{
+    ViewData["Title"] = "Mini CarSales View Vehicle";
+}
+
+<html>
+<body>
+    <div id="content" class="text-danger"></div>
+
+    <! -- JS to import React -->
+    <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react/16.13.0/umd/react.development.js"></script>
+    <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.13.0/umd/react-dom.development.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/1.7.1/remarkable.min.js"></script>
+
+    <! -- Axios library to performs operations via API Data -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+    <! -- Customized alert Box -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+   
+    <script src="@Url.Content("~/js/ViewVehicles.jsx")"></script>
+
+</body>
+</html>

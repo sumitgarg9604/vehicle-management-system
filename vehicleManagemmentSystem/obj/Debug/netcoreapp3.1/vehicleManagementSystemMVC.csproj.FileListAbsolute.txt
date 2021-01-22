@@ -1,0 +1,115 @@
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.exe
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\AdvancedStringBuilder.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Core.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\JSPool.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\React.AspNet.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\React.AspNet.Middleware.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\React.Core.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.csprojAssemblyReference.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.AssemblyInfoInputs.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.AssemblyInfo.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.RazorAssemblyInfo.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.RazorAssemblyInfo.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.TagHelpers.input.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.TagHelpers.output.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.RazorCoreGenerate.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.RazorTargetAssemblyInfo.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.RazorTargetAssemblyInfo.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.csproj.CopyComplete
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\staticwebassets\vehicleManagementSystemMVC.StaticWebAssets.Manifest.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\staticwebassets\vehicleManagementSystemMVC.StaticWebAssets.xml
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.V8.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\ClearScript.Core.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\ClearScript.V8.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\ClearScriptV8.win-x64.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.deps.json
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.runtimeconfig.json
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.runtimeconfig.dev.json
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.pdb
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.Views.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.Views.pdb
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.Views.pdb
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.dll
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.pdb
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.genruntimeconfig.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateCar.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.csproj.CoreCompileInputs.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Education\github directories\vehicle-management-system\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewListings.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.exe
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.deps.json
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.runtimeconfig.json
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.runtimeconfig.dev.json
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.pdb
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.Views.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\vehicleManagementSystemMVC.Views.pdb
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\AdvancedStringBuilder.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Core.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.Extensions.MsDependencyInjection.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\JavaScriptEngineSwitcher.V8.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\JSPool.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\ClearScript.Core.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\ClearScript.V8.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\React.AspNet.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\React.AspNet.Middleware.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\React.Core.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\ClearScriptV8.win-x64.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.csprojAssemblyReference.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.AssemblyInfoInputs.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.AssemblyInfo.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.csproj.CoreCompileInputs.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.RazorAssemblyInfo.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.RazorAssemblyInfo.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.TagHelpers.input.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.TagHelpers.output.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.RazorCoreGenerate.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateCar.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.RazorTargetAssemblyInfo.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.RazorTargetAssemblyInfo.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.Views.pdb
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.csproj.CopyComplete
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\staticwebassets\vehicleManagementSystemMVC.StaticWebAssets.Manifest.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\staticwebassets\vehicleManagementSystemMVC.StaticWebAssets.xml
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.dll
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.pdb
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\vehicleManagementSystemMVC.genruntimeconfig.cache
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewBoatListings.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCarListings.cshtml.g.cs
+D:\Education\github directories\vehicle-management-system - backuo1150\vehicleManagemmentSystem\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateBoat.cshtml.g.cs

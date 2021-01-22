@@ -1,0 +1,29 @@
+﻿<! -- Index.cshtml -->
+<! -- View Existing Vehicles by Type such as Boat or Car -->
+<! -- To Add a Vehicle By Type to the Database -->
+
+@{
+    ViewData["Title"] = "Vehicle Management System";
+}
+
+<html>
+<body>
+    <div id="content" class=""></div>
+
+    <! -- JS to import React -->
+    <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react/16.13.0/umd/react.development.js"></script>
+    <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.13.0/umd/react-dom.development.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/1.7.1/remarkable.min.js"></script>
+
+    <! -- Axios library to performs operations via API Data -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+    <! -- JS script for customized alert box -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+
+    <script src="@Url.Content("~/js/viewListingForm.jsx")"></script>
+    <script src="@Url.Content("~/js/selectAndCreateVehicle.jsx")"></script>
+
+</body>
+</html>
